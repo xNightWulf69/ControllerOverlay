@@ -1078,7 +1078,7 @@ strong {
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    /* background: url(https://svgshare.com/i/QeG.svg) no-repeat; */
+    background: url(https://svgshare.com/i/QeG.svg) no-repeat;
     opacity: 0;
 }
 
